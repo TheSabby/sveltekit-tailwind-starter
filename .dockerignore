@@ -1,0 +1,34 @@
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# npm
+node_modules
+npm-debug.log
+
+# Git
+.git
+.gitignore
+
+# Environment
+.env
+.env.template
+
+# Linters
+.eslintrc
+.prettierrc
+
+# Misc
+README.md
+.editorconfig
+.eslintrc.cjs
+.prettierrc
+.prettierignore
+
+# Tests
+tests
+
+# Build output
+build
+dist
